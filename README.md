@@ -4,8 +4,8 @@ Aplicación web para un negocio de comidas: los clientes recorren el catálogo, 
 
 - **Alumno:** Tadeo Acosta
 - **Materia:** Programación 4 — Tecnicatura Universitaria en Programación a Distancia (UTN)
-- **Repositorio:**- **Repositorio:** https://github.com/tadeo14/Acosta_Tadeo_TPI_FoodStore
-- **Video de demostración:** https://youtu.be/TU-VIDEO  <!-- TODO: reemplazar por el link público -->
+- **Repositorio:** https://github.com/tadeo14/Acosta_Tadeo_TPI_FoodStore
+- **Video de demostración:** https://www.youtube.com/watch?v=tggDgAo_rUc
 
 ---
 
